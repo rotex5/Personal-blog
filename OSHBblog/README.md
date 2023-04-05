@@ -8,6 +8,7 @@ During the early days of whiteboarding, we all had different project ideas, as w
 and Voila, OSBH was born.
 
 ### Project Result
+![authUser](https://user-images.githubusercontent.com/26916048/230170897-54db4301-f545-49db-a5f8-efbb0e5e46dd.PNG)
 
 For the Frontend we chose to use Bootstrap. We opted for bootstrap because of the speed it provides during rapid full stack development.
 For the backend, we used a Django which is a python framework for web development.  Considering we just finished the Airbnb Clone project using Flask, using Django was a way for us to test the waters and solidify our understanding of Python. It should also be noted that we chose Django over Flask because it’s a very good tool for rapid development.
