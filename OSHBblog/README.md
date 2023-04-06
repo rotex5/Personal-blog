@@ -10,8 +10,8 @@ and Voila, OSBH was born.
 ### Project Result
 ![authUser](https://user-images.githubusercontent.com/26916048/230170897-54db4301-f545-49db-a5f8-efbb0e5e46dd.PNG)
 
-For the Frontend we chose to use Bootstrap. We opted for bootstrap because of the speed it provides during rapid full stack development.
-For the backend, we used a Django which is a python framework for web development.  Considering we just finished the Airbnb Clone project using Flask, using Django was a way for us to test the waters and solidify our understanding of Python. It should also be noted that we chose Django over Flask because it’s a very good tool for rapid development.
+For the Frontend we chose to use [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/). We opted for bootstrap because of the speed it provides during rapid full stack development.
+For the backend, we used a Django which is a python framework for web development.  Considering we just finished the [Airbnb Clone](https://github.com/rotex5/AirBnB_clone_v4) project using [Flask](https://flask.palletsprojects.com/en/2.2.x/), trying out [Django](https://www.djangoproject.com/start/) was a way for us to test the waters and solidify our understanding of Python. It should also be noted that we chose Django over Flask because it’s a very good tool for rapid development.
 -Feature: 
 * Third Party Sign Up/Login authentication for GitHub using allAuth. 
 * The website is responsive and compatible with mobile. This means users can access the project from a mobile view.
