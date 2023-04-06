@@ -29,7 +29,7 @@ In conclusion, the error related to persistence of test set up data was resolved
 
 ### What I Learnt.
 Django is a very powerful web framework. I may have used Django once or twice before, but damn, this project really got me into the gutters. I even discovered [HTMX](https://htmx.org/).  Htmx allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext. Very wonderful tool I might say.  As an engineer, this project made me understand the importance of RTFM (Hhehehheehe).  I do agree that going through the official Docs can be stressful, but sometimes you end us stumbling on treasure trovers that can help you right now and in the future. 
-SideNote: I might have helped out with some parts of the frontend…But I am definitely a backend… :rofl: :rofl: :rofl:
+SideNote: I might have helped out with some parts of the frontend,but I am definitely a backend fellow… :rofl: :rofl: :rofl:
 
 ### Where do we go from here.
 We consider this project to a very interesting one with real world applications. Hence, we have chosen to continue to build on this. Adding more functionalities while we make it accessible to the public. We hope to foster a community of like-minded individuals who can come together to relax, have fun and share ideas. 
