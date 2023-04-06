@@ -1,4 +1,5 @@
 # BULIDING A COMMUNITY
+![image](https://user-images.githubusercontent.com/26916048/230264288-61ad541f-4569-4999-8f6b-9ef79ee31285.png)
 
 Our project helps provide a repository of knowledge for everyone. OSBH aims to provide individuals with array of books, articles and tutorials at their fingertips. Our team members are Philip Ukanwoke, David Okolie and myself. David was in charge of the frontend. Philip handled the testing aspect of the web app and I handle the business logic of things. As an engineering problem, we wanted to build a community for individuals with similar interest to come together, hangout and share ideas. 
 During the early days of whiteboarding, we all had different project ideas, as well as possible solutions to these problems. After a few back and forth, we finally we decide to come up with three major metrics for choosing a project. 
