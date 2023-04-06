@@ -35,4 +35,4 @@ SideNote: I might have helped out with some parts of the frontend…But I am def
 We consider this project to a very interesting one with real world applications. Hence, we have chosen to continue to build on this. Adding more functionalities while we make it accessible to the public. We hope to foster a community of like-minded individuals who can come together to relax, have fun and share ideas. 
 
 ### About Me
-I am a member of the Mugiwara Pirates. Just trying to make the world a better place one key stroke at a time. Check me out on [github](https://github.com/rotex5). You can also connect with me on [LinkedIn](http://www.linkedin.com/in/davidson-ogaraku-a9547aa7).
+I am a passionate web developer and a big fan of the [Mugiwara Pirates](https://onepiece.fandom.com/wiki/Straw_Hat_Pirates). Just trying to make the world a better place one key stroke at a time. Check me out on [github](https://github.com/rotex5). You can also connect with me on [LinkedIn](http://www.linkedin.com/in/davidson-ogaraku-a9547aa7).
